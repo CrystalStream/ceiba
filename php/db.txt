@@ -1,0 +1,24 @@
+create database Ceiba;
+
+use Ceiba;
+
+create table usuario(
+idusuario char(10) not null primary key,
+nombre char(15),
+paterno char(15),
+usuario char(15),
+contra char(15));r
+
+create table alumno(
+idalumno int not null primary key,
+nombres char(20),
+apellidos char(20),
+direccion char(20),
+doc char(20),
+genero char(10)),
+estado char(20),
+edad char(20),
+mod char(20),
+inscri char(20),
+asistencia char(20),
+beca char(20);

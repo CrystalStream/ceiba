@@ -1,0 +1,85 @@
+body{
+	background:-webkit-linear-gradient(#C3D9FF, #FFF);
+    background:-moz-linear-gradient(#C3D9FF, #FFF);	
+}
+
+.buscar{
+	width: 250px;
+    margin-left: 762px;
+}
+
+div .hea{
+	    background: white;
+    width: 1010px;
+    margin-left: 182px;
+}
+
+div .rtn{
+    background: white;
+    width: 124px;
+    margin-top: 29px;
+    margin-bottom: 13px;
+}
+.buscar input{
+	height:30px;
+	border:none;
+	background:smoke;
+}
+
+table{
+	background:white;
+	border-radius: 5px 5px 5px 5px;
+}
+
+table tr{
+	background:#4096EE;
+	color:white;
+	font-size:20px;
+}
+table td{
+	background:#C3D9FF;
+	color:black;
+	text-align:Center;
+	width:100px;
+}
+
+.alta{
+    background: #FFF;
+    border: thin solid #4096EE;
+    width: 300px;
+    padding-bottom: 10px;
+    float: left;
+    margin: 128px 0px 0px 522px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.alta li{
+	text-shadow: 2px 2px 2px #000;
+	border-radius:5px 5px 10px 10px;
+	margin-top: -18px;
+	font-size:25px;
+	list-style:none;
+	background:#4096EE;
+	border-bottom: medium solid #FFF;
+	text-align: center;
+	color:#FFF;
+}
+
+.alta label{
+	width:100px;
+	float:left;
+	text-align:right;
+	font-size:20px;
+}
+
+.atla input{
+	height:30px;
+	border:thin solid #4096EE;
+}
+
+.alta .btn{
+	background:#4096EE;
+	color: #FFF;
+	font-size:23px;
+	margin:0px 0px 0px 100px;
+}
